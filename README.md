@@ -12,3 +12,5 @@ It'll be interesting to see what imagery people are able to generate using the d
 * [Alexander Mordvintsev](mailto:moralex@google.com)
 * [Michael Tyka](https://www.twitter.com/mtyka)
 * [Christopher Olah](mailto:colah@google.com)
+
+* 
